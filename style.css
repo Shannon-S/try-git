@@ -1,0 +1,9 @@
+{
+	fount-family: Georgia, 'Times New Roman';
+}
+
+.about {
+	border: 1px solid blue;
+	padding: 15px;
+	box-shadow: 2px 2px 4px
+}
